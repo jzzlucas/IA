@@ -68,4 +68,3 @@ Este projeto é uma inteligência artificial avançada que combina modelos de li
 ## Como abaixar ? 
 
 R.: Link : https://www.mediafire.com/file/7rasavshirtjk3i/ia.txt/file
-R.: Link 2 : 
